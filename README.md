@@ -78,7 +78,9 @@ for different maxIteration (1000, 10000, and 100000).
 | Method 1 | 11.768    | 34.824     |306.009 | 6.686 | 12.452 |39.512|
 | Method 2 | 11.939     | 36.326    | 308.237| 8.074 | 14.750 |42.447|
 | Method 3 | 17.851     | 42.215    |362.300 | 8.908 | 16.501 |47.925|
+
 ![](https://i.imgur.com/qrr2QRH.png)
+
 ![](https://i.imgur.com/0fR1RGa.png)
 
 
